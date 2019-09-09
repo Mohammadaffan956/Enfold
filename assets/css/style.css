@@ -1,0 +1,199 @@
+.nav-txt {
+    font-family: Raleway !important;
+    font-size: 19px !important;
+}
+.slider{
+    background-image: url("../img/banner.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 950px;
+}
+.slider-1{
+    padding-top: 30%;
+    text-align: center;
+}
+.slider-txt h1{
+    color: white;
+    font-family: Raleway;
+    font-size: 7.3em;
+}
+.slider-txt h1 span{
+    opacity: 0.7    ;
+}
+.slider-txt p{
+    font-family: Raleway;
+    font-size: 20px;
+    color: white;
+}
+.one-third{
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+.one-third i{
+    color: #bbbbbb;
+    float: left;
+    padding-right: 26px;
+    padding-bottom: 20px;
+}
+.one-txt h3{
+    font-family: Raleway;
+    color: black;
+    font-size: 20px;
+}
+.one-third p{
+    font-family: Raleway;
+    font-size: 14px;
+    color: #bbbbbb;
+}
+.one-third p span{
+    color: black;
+}
+.blog{
+    padding-top: 20%;
+}
+.blog h1{
+    font-family: Raleway;
+    font-size: 2.5em;
+    color: black;
+}
+.blog p{
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 28px;
+    margin-top: 50px;
+    color: #b2b2b2;
+}
+.blog p span{
+    color: black;
+}
+.blog ul{
+    margin-top: 45px;
+}
+.blog ul li{
+    display: inline;
+    margin-right: 5px;
+}
+.blog ul li i{
+    color: #e1bc12;
+}
+.back-grey{
+    background-color: #f8f8f8;
+}
+.blog a{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 14px;
+    padding: 16px 40px 16px 40px;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+.blog-img{
+    padding-bottom: 60px;
+}
+.center-img{
+    text-align: center;
+    margin-top: 144px;
+}
+.center-img h1{
+    font-family: Raleway;
+    font-size: 28px;
+}
+.center-img img{
+    margin-top: 40px;
+}
+.center-txt p{
+    font-family: Raleway;
+    font-size: 14px;
+    color: #b2b2b2;
+}
+.center-txt p span{
+    color: black;
+    font-weight: 500;
+}
+.center-txt{
+    margin-top: 56px;
+    margin-bottom: 40px;
+}
+.back-black {
+    background-color: #35383c;
+    padding-bottom: 115px;
+}
+.feature {
+    margin-top: 20px;
+}
+.feat-heading{
+    text-align: center;
+    margin-top: 124px;
+}
+.feat-heading h1{
+    font-family: Raleway;
+    font-family: 30px;
+    color: white;
+
+}
+.feat-three{
+    color: white;
+    margin-top: 80px;
+}
+.feat-three ul{
+    list-style: none;
+}
+.feat-three ul li{
+    font-family: Raleway;
+    font-size: 14px;
+    color: #bbbbbb;
+    margin-top: 6px;
+}
+.feat-three ul li i{
+    padding-right: 10px;
+}
+.back-img2{
+    background-image: url("../img/business-office-work.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(2em lenght);
+    height: 500px;
+}
+.back2-head{
+    text-align: center;
+    color: white;
+}
+.back2-head h1{
+    font-family: Raleway;
+    font-size: 40px;
+    margin-top: 160px;
+}
+.back2-head ul{
+    margin-top: 60px;
+}
+.back2-head ul li{
+    display: inline;
+    margin: 5px;
+    color: white;
+}
+.back2-head ul li input{
+    height: 43px;
+    width: 240px;
+    background-color: transparent;
+    border: 2px solid white;
+    padding-left: 10px;
+    color: white;
+    font-weight: 600;
+}
+.back2-head p{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.center-heading{
+    text-align: center;
+    margin-top: 87px;
+}
+.center-heading h1{
+    font-family: Raleway;
+    font-size: 2em;
+    color: black;
+}
